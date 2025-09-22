@@ -1,2 +1,3 @@
 # Covid_project
 Covid deathcase and vaccination project with PostgresSQL
+This project explores global COVID-19 data using PostgreSQL by analyzing two datasets: coviddeaths and covidvaccinations. The queries highlight key insights such as infection rates, severity categorization, highest mortality days, vaccination rollout trends, monthly case growth, and healthcare capacity comparisons. The work demonstrates practical SQL skills including CTEs, window functions, case statements, joins, and aggregations, turning raw data into meaningful indicators like death-to-case ratios, vaccination coverage, and continent-level risk assessments.
